@@ -20,7 +20,7 @@ with col2:
     output_text_area = st.empty()
 
 # AI configuration
-genai.configure(api_key="AIzaSyAcMlP-sdYSjEf2EkR0Zm3xq-bPkFLj0vc")
+genai.configure(api_key="YOUR_API_KEY")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Video capture setup
