@@ -1,0 +1,2 @@
+# AirDraw-AI-Powered-Gesture-Based-Drawing-and-Math-Recognition
+AirDraw integrates hand gesture recognition with AI to enable users to draw in the air. Using a webcam and computer vision, it captures gestures, interprets drawings, and solves math problems in real-time. With a user-friendly interface powered by Streamlit, AirDraw combines creativity with technology for interactive and educational experiences
